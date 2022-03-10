@@ -1,0 +1,26 @@
+.gris {
+  background: #333;
+}
+
+.navbar-dark {
+  color: white;
+}
+
+@media screen and (max-width:500px) {
+    header + div {
+        display: none;
+    }
+}
+
+/*main > section > article:first-child{ background: orange;}
+main > section > article:nth-child(2){ background: purple;}
+main > section > article:last-child{ background: red;}
+main > section > article{ height:500px;}
+
+.navbar-dark .navbar-nav .nav-link{color: yellow;}
+
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .show>.nav-link {color: yellow;
+border-bottom: 2px solid yellow;}
+
+*/
