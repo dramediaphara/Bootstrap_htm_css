@@ -51,10 +51,6 @@
         font-weight: 100;}
     
         p span::after{
-            content: '';
-            width: 30px;
-            height: 30px;
-            border-radius: 50%;
-            display: block;
-            background: black;
+            content: '06 67 98 76 54';
+            
         }

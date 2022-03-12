@@ -1,0 +1,191 @@
+body {
+    background-image: url("../images/arriereplan_1.jpg");
+    
+  }
+  
+  header {
+    border: none;
+    margin: 0;
+    width: 80%;
+    height: 150px;
+    margin: auto;
+  }
+  
+  header img {
+    display: flex;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    position: absolute;
+    top: 20px;
+    left: 150px;
+  }
+
+  .navbar-brand img {
+    width: 55px;
+    height: 55px;
+  }
+ 
+  header h1 {
+    display: flex;
+    text-align: center;
+    color: brown;
+    position: absolute;
+    top: 10px;
+    left: 230px;
+  }
+  
+  form {
+    width: 80%;
+    height: 800px;
+    margin: 0;
+    margin: auto;
+    margin-top: 60px;
+  }
+  legend {
+    text-align: center;
+    font-size: 35px;
+  }
+  
+  table {
+    width: 80%;
+    height: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+  }
+  
+  table .nom {
+    border: none;
+    font-size: 30px;
+  }
+  .nom input {
+    border: none;
+    border-radius: 20px;
+    width: 450px;
+    height: 30px;
+    text-align: center;
+  }
+  
+  table .prenom {
+    border: none;
+    font-size: 30px;
+  }
+  .prenom input {
+    border: none;
+    border-radius: 20px;
+    width: 450px;
+    height: 30px;
+    text-align: center;
+  }
+  
+  table .email {
+    border: none;
+    font-size: 30px;
+  }
+  .email input {
+    border: none;
+    border-radius: 20px;
+    width: 450px;
+    height: 30px;
+    text-align: center;
+  }
+  
+  table .motdepasse {
+    border: none;
+    font-size: 30px;
+  }
+  .motdepasse input {
+    border: none;
+    border-radius: 20px;
+    width: 450px;
+    height: 30px;
+    text-align: center;
+  }
+  
+  table .telephone {
+    border: none;
+    font-size: 30px;
+  }
+  .telephone input {
+    border: none;
+    border-radius: 20px;
+    width: 450px;
+    height: 30px;
+    text-align: center;
+  }
+  
+  table .adresse {
+    border: none;
+    font-size: 30px;
+  }
+  .adresse input {
+    border: none;
+    border-radius: 20px;
+    width: 450px;
+    height: 30px;
+    text-align: center;
+  }
+  
+  table .complement {
+    border: none;
+    font-size: 30px;
+  }
+  table .pays {
+    border: none;
+    font-size: 30px;
+  }
+  .pays input {
+    border: none;
+    border-radius: 20px;
+    width: 450px;
+    height: 30px;
+    text-align: center;
+  }
+  
+  table .ville {
+    border: none;
+    font-size: 30px;
+  }
+  .ville input {
+    border: none;
+    border-radius: 20px;
+    width: 450px;
+    height: 30px;
+    text-align: center;
+  }
+  
+  table .codepostal {
+    border: none;
+    font-size: 30px;
+  }
+  .codepostal input {
+    border: none;
+    border-radius: 20px;
+    width: 450px;
+    height: 30px;
+    text-align: center;
+  }
+  
+  table .homme {
+    border: none;
+    font-size: 30px;
+  }
+  
+  table .femme {
+    border: none;
+    font-size: 30px;
+  }
+  
+  table .commentaire {
+    border: none;
+    font-size: 30px;
+  }
+  .commentaire input {
+    border: none;
+    border-radius: 20px;
+    width: 450px;
+    height: 30px;
+    text-align: center;
+  }
+  

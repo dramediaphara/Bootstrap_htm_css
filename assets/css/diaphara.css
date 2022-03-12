@@ -1,0 +1,134 @@
+/******** debut de mon code body --------*/
+
+body {
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+  background-image: url("../images/arriereplan_1.jpg");
+}
+
+/*************** fin css body ***********/
+header > nav {
+  width: 100%;
+  height: 150px;
+}
+
+.navbar-brand img {
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+}
+
+#navbarNav > ul > li > a{
+  color: black;
+  font-size: 25PX;
+}
+/************** debut css header *********/
+
+hgroup{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: blue;
+}
+/************** debut css main **********/
+
+main{
+    min-width: 500px;
+    margin-bottom: 10px;
+}
+ 
+
+.card-body {
+    text-align: justify;
+    background-color: darkgrey;
+}
+
+.card-footer{
+    border: none;
+    border: 1px solid black;
+    background-color: dimgrey;
+    position: relative;
+}
+
+.btn btn-primary{
+    border: none;
+    border: 2px solid black;
+    vertical-align: middle;
+    background-color: brown;
+}
+
+.card-img-top{
+    width: 100%;
+    height: 352px;
+}
+.a span::after{
+  content: " 92 Bis Boulevard du Montparnasse 75014 Paris";
+  font-size: 18px;  
+}
+
+.b span::after{
+    content: "06 53 94 91 61";
+    font-size: 25px;
+}
+
+.c span::after{
+    content: "drammediaphara@gmail.com";
+    font-size: 20px;
+}
+
+.d span::after{
+    content: "Titulaire de Permis B";
+    font-size: 20px;
+}
+
+.text-muted{
+    position: relative;
+}
+.e{
+    font-size: 45PX;
+    margin-right: 50px;
+    margin-left: 15px;
+}
+
+.f{
+    font-size: 45PX;
+    margin-right: 50px;
+}
+
+.g > img{
+    width: 45px;
+    height: 45px;
+    margin-bottom: 20px;
+    
+}
+footer {
+  position: relative;
+  display: flex;
+  width: 100%;
+  height: 100px;
+  margin: 0;
+}
+
+footer > div > p{
+    margin-left: 30px;
+}
+
+.footer > ul > li{
+    list-style-type: none;
+}
+
+.f1{
+    font-size: 60px;
+    margin-left: 40px;
+}
+
+.f2{
+    font-size: 60px;
+    margin-left: 40px;
+}
+
+.f3{
+    font-size: 60px;
+    margin-left: 40px;
+}
